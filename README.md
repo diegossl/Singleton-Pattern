@@ -2,32 +2,32 @@
   <img src="https://refactoring.guru/images/patterns/cards/singleton-mini.png"/>
 <p/>
 
-# Padrão de projeto singleton
+# Singleton pattern
 
-O Singleton é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.
+Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
 
 ## Setup
 
-Para executar o projeto, será necessário instalar as dependências digitando o seguinte comando no terminal:
+To execute the project, it will be necessary to install the dependencies by typing the following command in the terminal:
 
 ```bash
 yarn install
 ```
 
-Para executar o projeto é preciso transpilar o código Typescript para JavaScript. Para isso digite o seguinte comando no terminal:
+To execute the project it is necessary to transpile the Typescript code to JavaScript. To do this, type the following command in the terminal:
 
 ```bash
 yarn tsc
 ```
 
-### Uso
+### Use
 
-Para executar o projeto já transpilado para JavaScript digite o seguinte comando no terminal:
+To execute the project already transpiled into JavaScript, type the following command in the terminal:
 
 ```bash
 yarn start
 ```
 
-## Licença
+## License
 
 MIT
